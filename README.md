@@ -22,10 +22,14 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları s
 
 ### 1. Sunucu (Backend) Hazırlığı
 cd server
+
 npm install
+
 node index.js
 
 ### 2. İstemci (Frontend) Hazırlığı
 cd client
+
 npm install
+
 npm run dev
